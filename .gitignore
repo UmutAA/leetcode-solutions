@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# C/C++
+*.o
+*.exe
+
+# IDE dosyaları
+.vscode/
+.idea/
+*.swp
