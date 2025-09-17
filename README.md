@@ -6,4 +6,5 @@ This repository contains my solutions to LeetCode problems in different language
 ## C
 - 20_Valid_Parentheses.c
 - 21_Merge_Two_Sorted_Lists.c
+- 53_Maximum_Subarray.c
 - 121_Best_Time_To_Buy_Sell_Stock.c
