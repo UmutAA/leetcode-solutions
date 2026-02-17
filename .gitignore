@@ -6,6 +6,21 @@ __pycache__/
 *.o
 *.exe
 
+# Java
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# JVM crash logs
+hs_err_pid*
+
 # IDE dosyaları
 .vscode/
 .idea/

@@ -5,6 +5,10 @@ This repository contains my solutions to LeetCode problems in different language
 - 1_Two_Sum.py
 - 70_Climbing_Stairs.py
 - 125_Valid_Palindrome.py
+
+## Java
+- 739 - Daily_Temperatures.java
+
 ## C
 - 20_Valid_Parentheses.c
 - 21_Merge_Two_Sorted_Lists.c
