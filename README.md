@@ -7,6 +7,7 @@ This repository contains my solutions to LeetCode problems in different language
 - 125_Valid_Palindrome.py
 
 ## Java
+- 14 - Longest_Common_Prefix.java
 - 739 - Daily_Temperatures.java
 
 ## C
