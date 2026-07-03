@@ -9,6 +9,7 @@ This repository contains my solutions to LeetCode problems in different language
 ## Java
 - 14 - Longest_Common_Prefix.java
 - 26 - Remove_Duplicates_from_Sorted_Array.java
+- 27 - Remove__Element.java
 - 739 - Daily_Temperatures.java
 
 ## C

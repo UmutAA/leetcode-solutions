@@ -4,8 +4,7 @@ public class Longest_Common_Prefix
     {
         public String longestCommonPrefix(String[] strs)
         {
-            String retVal = new String();
-            retVal = "";
+            String retVal = "";
             Arrays.sort(strs);
             String firstWord = strs[0];
             String lastWord = strs[strs.length - 1];
