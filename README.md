@@ -11,6 +11,7 @@ This repository contains my solutions to LeetCode problems in different language
 - 26 - Remove_Duplicates_from_Sorted_Array.java
 - 27 - Remove__Element.java
 - 35 - Search_Insert_Position.java
+- 268 - Missing_Number.java
 - 739 - Daily_Temperatures.java
 
 ## C
