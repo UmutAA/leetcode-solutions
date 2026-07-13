@@ -5,6 +5,7 @@ This repository contains my solutions to LeetCode problems in different language
 - 1_Two_Sum.py
 - 70_Climbing_Stairs.py
 - 125_Valid_Palindrome.py
+- 217_Contains_Duplicate.py
 
 ## Java
 - 14 - Longest_Common_Prefix.java
