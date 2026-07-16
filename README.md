@@ -3,6 +3,7 @@ This repository contains my solutions to LeetCode problems in different language
 
 ## Python
 - 1_Two_Sum.py
+- 49_Group_Anagrams.py
 - 70_Climbing_Stairs.py
 - 125_Valid_Palindrome.py
 - 217_Contains_Duplicate.py
