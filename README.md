@@ -6,6 +6,7 @@ This repository contains my solutions to LeetCode problems in different language
 - 49_Group_Anagrams.py
 - 70_Climbing_Stairs.py
 - 125_Valid_Palindrome.py
+- 128_Longest_Consecutive_Sequence.py
 - 217_Contains_Duplicate.py
 - 238_Product_Of_Array_Except_Self.py
 - 242_Valid_Anagram.py
