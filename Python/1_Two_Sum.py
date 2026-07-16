@@ -6,5 +6,7 @@ class Solution:
         for i,num in enumerate(nums):
             diff = target - num
             if diff in indices and indices[diff] != i:
-                return [indices[num], i]
+                return [indices[diff], i]
+            else:
+                indices[num] = i
         return []
