@@ -3,6 +3,7 @@ This repository contains my solutions to LeetCode problems in different language
 
 ## Python
 - 1_Two_Sum.py
+- 15_3Sum.py
 - 36_Valid_Sudoku.py
 - 49_Group_Anagrams.py
 - 70_Climbing_Stairs.py
@@ -10,6 +11,7 @@ This repository contains my solutions to LeetCode problems in different language
 - 128_Longest_Consecutive_Sequence.py
 - 150_Evaluate_Reverse_Polish_Notation.py
 - 155_Min_Stack.py
+- 167_Two_Sum_II.py
 - 217_Contains_Duplicate.py
 - 238_Product_Of_Array_Except_Self.py
 - 242_Valid_Anagram.py
@@ -27,6 +29,7 @@ This repository contains my solutions to LeetCode problems in different language
 - 1299 - Replace_Elements_With_Greatest_Element_On_Right_Side.java
 
 ## C
+- 11_Container_With_Most_Water.c
 - 20_Valid_Parentheses.c
 - 21_Merge_Two_Sorted_Lists.c
 - 53_Maximum_Subarray.c
