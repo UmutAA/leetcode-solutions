@@ -35,3 +35,4 @@ This repository contains my solutions to LeetCode problems in different language
 - 53_Maximum_Subarray.c
 - 121_Best_Time_To_Buy_Sell_Stock.c
 - 283_Move_Zeroes.c
+- 392_Is_Subsequence.c
