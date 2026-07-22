@@ -24,6 +24,7 @@ This repository contains my solutions to LeetCode problems in different language
 - 35 - Search_Insert_Position.java
 - 268 - Missing_Number.java
 - 739 - Daily_Temperatures.java
+- 1299 - Replace_Elements_With_Greatest_Element_On_Right_Side.java
 
 ## C
 - 20_Valid_Parentheses.c
