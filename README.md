@@ -6,6 +6,7 @@ This repository contains my solutions to LeetCode problems in various languages.
 - 15_3Sum.py
 - 36_Valid_Sudoku.py
 - 49_Group_Anagrams.py
+- 66_Plus_One.py
 - 69_Sqrt(x).py
 - 70_Climbing_Stairs.py
 - 71_Simplfy_Path.py
@@ -26,6 +27,7 @@ This repository contains my solutions to LeetCode problems in various languages.
 - 704_Binary_Search.py
 - 735_Asteroid_Collision.py
 - 853_Car_Fleet.py
+- 1095_Find_In_Mountain_Array.py
 
 ## Java
 - 14 - Longest_Common_Prefix.java
