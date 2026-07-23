@@ -12,6 +12,7 @@ This repository contains my solutions to LeetCode problems in different language
 - 150_Evaluate_Reverse_Polish_Notation.py
 - 155_Min_Stack.py
 - 167_Two_Sum_II.py
+- 169_Majority_Element.py
 - 217_Contains_Duplicate.py
 - 238_Product_Of_Array_Except_Self.py
 - 242_Valid_Anagram.py
