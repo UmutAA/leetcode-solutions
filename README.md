@@ -6,6 +6,7 @@ This repository contains my solutions to LeetCode problems in various languages.
 - 15_3Sum.py
 - 36_Valid_Sudoku.py
 - 49_Group_Anagrams.py
+- 69_Sqrt(x).py
 - 70_Climbing_Stairs.py
 - 71_Simplfy_Path.py
 - 74_Search_A_2D_Matrix.py
