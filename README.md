@@ -1,5 +1,5 @@
 # LeetCode Solutions
-This repository contains my solutions to LeetCode problems in different languages.
+This repository contains my solutions to LeetCode problems in various languages.
 
 ## Python
 - 1_Two_Sum.py
@@ -7,6 +7,7 @@ This repository contains my solutions to LeetCode problems in different language
 - 36_Valid_Sudoku.py
 - 49_Group_Anagrams.py
 - 70_Climbing_Stairs.py
+- 121_Best_Time_To_Buy_Sell_Stock.py
 - 125_Valid_Palindrome.py
 - 128_Longest_Consecutive_Sequence.py
 - 150_Evaluate_Reverse_Polish_Notation.py
@@ -34,6 +35,5 @@ This repository contains my solutions to LeetCode problems in different language
 - 20_Valid_Parentheses.c
 - 21_Merge_Two_Sorted_Lists.c
 - 53_Maximum_Subarray.c
-- 121_Best_Time_To_Buy_Sell_Stock.c
 - 283_Move_Zeroes.c
 - 392_Is_Subsequence.c
