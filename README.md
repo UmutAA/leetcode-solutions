@@ -7,6 +7,7 @@ This repository contains my solutions to LeetCode problems in various languages.
 - 36_Valid_Sudoku.py
 - 49_Group_Anagrams.py
 - 70_Climbing_Stairs.py
+- 71_Simplfy_Path.py
 - 121_Best_Time_To_Buy_Sell_Stock.py
 - 125_Valid_Palindrome.py
 - 128_Longest_Consecutive_Sequence.py
@@ -21,6 +22,7 @@ This repository contains my solutions to LeetCode problems in various languages.
 - 347_Top_K_Frequent_Elements.py
 - 682_Baseball_Game.py
 - 704_Binary_Search.py
+- 735_Asteroid_Collision.py
 - 853_Car_Fleet.py
 
 ## Java
